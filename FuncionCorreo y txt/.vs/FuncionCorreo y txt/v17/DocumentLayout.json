@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\FuncionCorreo y txt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAD72B8-BFFC-4738-8E7E-8D570C6818B4}|FuncionCorreo y txt\\FuncionCorreo y txt.vcxproj|C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\FuncionCorreo y txt\\FuncionCorreo y txt\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABAD72B8-BFFC-4738-8E7E-8D570C6818B4}|FuncionCorreo y txt\\FuncionCorreo y txt.vcxproj|solutionrelative:FuncionCorreo y txt\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\FuncionCorreo y txt\\FuncionCorreo y txt\\Source.cpp",
+              "RelativeDocumentMoniker": "FuncionCorreo y txt\\Source.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\FuncionCorreo y txt\\FuncionCorreo y txt\\Source.cpp",
+              "RelativeToolTip": "FuncionCorreo y txt\\Source.cpp",
+              "ViewState": "AQIAADoAAAAAAAAAAAAuwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T12:54:01.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

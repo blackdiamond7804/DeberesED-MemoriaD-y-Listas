@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Discos de Hanoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B810A4F-1F4A-4B41-8E15-6589A2D92F52}|Discos de Hanoi\\Discos de Hanoi.vcxproj|C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Discos de Hanoi\\Discos de Hanoi\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B810A4F-1F4A-4B41-8E15-6589A2D92F52}|Discos de Hanoi\\Discos de Hanoi.vcxproj|solutionrelative:Discos de Hanoi\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Discos de Hanoi\\Discos de Hanoi\\main.cpp",
+              "RelativeDocumentMoniker": "Discos de Hanoi\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Discos de Hanoi\\Discos de Hanoi\\main.cpp",
+              "RelativeToolTip": "Discos de Hanoi\\main.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T13:40:09.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

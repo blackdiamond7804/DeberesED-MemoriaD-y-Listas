@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{765E5660-6352-4BA2-AA8F-42D549B3F225}|Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR.vcxproj|C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{765E5660-6352-4BA2-AA8F-42D549B3F225}|Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR.vcxproj|solutionrelative:Lista Circular NUMERO PAR\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765E5660-6352-4BA2-AA8F-42D549B3F225}|Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR.vcxproj|C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\ListasCirculares.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{765E5660-6352-4BA2-AA8F-42D549B3F225}|Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR.vcxproj|solutionrelative:Lista Circular NUMERO PAR\\ListasCirculares.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765E5660-6352-4BA2-AA8F-42D549B3F225}|Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR.vcxproj|C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\ListasCirculares.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{765E5660-6352-4BA2-AA8F-42D549B3F225}|Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR.vcxproj|solutionrelative:Lista Circular NUMERO PAR\\ListasCirculares.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765E5660-6352-4BA2-AA8F-42D549B3F225}|Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR.vcxproj|C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\Nodo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{765E5660-6352-4BA2-AA8F-42D549B3F225}|Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR.vcxproj|solutionrelative:Lista Circular NUMERO PAR\\Nodo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765E5660-6352-4BA2-AA8F-42D549B3F225}|Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR.vcxproj|C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\Nodo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{765E5660-6352-4BA2-AA8F-42D549B3F225}|Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR.vcxproj|solutionrelative:Lista Circular NUMERO PAR\\Nodo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListasCirculares.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\ListasCirculares.cpp",
+              "RelativeDocumentMoniker": "Lista Circular NUMERO PAR\\ListasCirculares.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\ListasCirculares.cpp",
+              "RelativeToolTip": "Lista Circular NUMERO PAR\\ListasCirculares.cpp",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAIkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T05:14:33.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListasCirculares.h",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\ListasCirculares.h",
+              "RelativeDocumentMoniker": "Lista Circular NUMERO PAR\\ListasCirculares.h",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\ListasCirculares.h",
+              "RelativeToolTip": "Lista Circular NUMERO PAR\\ListasCirculares.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T05:14:09.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nodo.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\Nodo.cpp",
+              "RelativeDocumentMoniker": "Lista Circular NUMERO PAR\\Nodo.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\Nodo.cpp",
+              "RelativeToolTip": "Lista Circular NUMERO PAR\\Nodo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T05:13:03.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\main.cpp",
+              "RelativeDocumentMoniker": "Lista Circular NUMERO PAR\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\main.cpp",
+              "RelativeToolTip": "Lista Circular NUMERO PAR\\main.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T05:15:06.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nodo.h",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\Nodo.h",
+              "RelativeDocumentMoniker": "Lista Circular NUMERO PAR\\Nodo.h",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Lista Circular NUMERO PAR\\Lista Circular NUMERO PAR\\Nodo.h",
+              "RelativeToolTip": "Lista Circular NUMERO PAR\\Nodo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T05:11:55.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

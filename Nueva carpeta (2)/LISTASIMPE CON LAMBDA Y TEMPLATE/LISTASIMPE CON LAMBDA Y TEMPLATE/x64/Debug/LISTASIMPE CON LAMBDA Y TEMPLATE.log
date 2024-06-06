@@ -1,0 +1,6 @@
+﻿  ListasSimples.cpp
+  main.cpp
+C:\Users\User\OneDrive\Escritorio\Templates 1.1\LISTASIMPE CON LAMBDA Y TEMPLATE\LISTASIMPE CON LAMBDA Y TEMPLATE\main.cpp(100,15): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Nodo.cpp
+  Generando código...
+  LISTASIMPE CON LAMBDA Y TEMPLATE.vcxproj -> C:\Users\User\OneDrive\Escritorio\Templates 1.1\LISTASIMPE CON LAMBDA Y TEMPLATE\x64\Debug\LISTASIMPE CON LAMBDA Y TEMPLATE.exe

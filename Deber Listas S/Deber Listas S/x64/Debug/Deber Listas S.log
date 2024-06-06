@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\User\OneDrive\Escritorio\Templates 1.1\Deber Listas S\Deber Listas S\Source.cpp(32,3): error C3861: 'inicio': no se encontró el identificador
+  C:\Users\User\OneDrive\Escritorio\Templates 1.1\Deber Listas S\Deber Listas S\Source.cpp(32,3):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\User\OneDrive\Escritorio\Templates 1.1\Deber Listas S\Deber Listas S\Source.cpp(23,7):
+  	al compilar la plantilla de clase 'ListaSimple'
+  
+C:\Users\User\OneDrive\Escritorio\Templates 1.1\Deber Listas S\Deber Listas S\Source.cpp(32,3): error C2065: 'inicio': identificador no declarado

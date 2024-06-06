@@ -1,0 +1,6 @@
+﻿  ListasSimples.cpp
+  main.cpp
+C:\Users\User\OneDrive\Escritorio\Templates 1.1\LS FuncionExtra 2\LS FuncionExtra 2\main.cpp(104,18): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Nodo.cpp
+  Generando código...
+  LS FuncionExtra 2.vcxproj -> C:\Users\User\OneDrive\Escritorio\Templates 1.1\LS FuncionExtra 2\x64\Debug\LS FuncionExtra 2.exe

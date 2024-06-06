@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Deber Listas S\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C72E9D0-4D81-412B-8901-D945D6ED6867}|Deber Listas S\\Deber Listas S.vcxproj|C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Deber Listas S\\Deber Listas S\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C72E9D0-4D81-412B-8901-D945D6ED6867}|Deber Listas S\\Deber Listas S.vcxproj|solutionrelative:Deber Listas S\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Deber Listas S\\Deber Listas S\\Source.cpp",
+              "RelativeDocumentMoniker": "Deber Listas S\\Source.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\Templates 1.1\\Deber Listas S\\Deber Listas S\\Source.cpp",
+              "RelativeToolTip": "Deber Listas S\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T16:02:55.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

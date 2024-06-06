@@ -1,0 +1,20 @@
+Usuario: Pablo Antonio Campoverde
+Cedula: 1750084558
+Correo: pacampoverde@espe.edu.ec
+
+Usuario: Marjorie Anahi Campoverde
+Cedula: 1750084665
+Correo: macampoverde@espe.edu.ec
+
+Usuario: Juan Carlos Perez
+Cedula: 1803005071
+Correo: jcperez@espe.edu.ec
+
+Usuario: Juan Carlos Perez
+Cedula: 0401153390
+Correo: jcperez1@espe.edu.ec
+
+Usuario: Juan Carlos Perez
+Cedula: 1754144390
+Correo: jcperez2@espe.edu.ec
+
